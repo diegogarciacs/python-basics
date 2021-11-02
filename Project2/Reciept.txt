@@ -1,0 +1,10 @@
+~~~~~~~~********Total for Order #1********~~~~~~~~
+
+Hamburger                $2.75
+French fries             $2.25
+Medium Coke              $2.25
+------------------------------
+Subtotal                 $7.25
+Sales Tax                $0.58
+Total                    $7.83
+
